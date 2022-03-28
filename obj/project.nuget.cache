@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VRr+wxYkSQjX1XfsQr8Sgl8TSmyiz+4fr3DA/AyzwqPpzyTMN0g22RXlD2W8wlCBesiUno2g8r4I5IgdSQL97A==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\fundamentosOrientacaoOBJ\\fundamentosOrientacaoOBJ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

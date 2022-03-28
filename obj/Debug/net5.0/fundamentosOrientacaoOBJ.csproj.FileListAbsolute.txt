@@ -1,0 +1,16 @@
+D:\dev\fundamentosOrientacaoOBJ\bin\Debug\net5.0\fundamentosOrientacaoOBJ.exe
+D:\dev\fundamentosOrientacaoOBJ\bin\Debug\net5.0\fundamentosOrientacaoOBJ.deps.json
+D:\dev\fundamentosOrientacaoOBJ\bin\Debug\net5.0\fundamentosOrientacaoOBJ.runtimeconfig.json
+D:\dev\fundamentosOrientacaoOBJ\bin\Debug\net5.0\fundamentosOrientacaoOBJ.runtimeconfig.dev.json
+D:\dev\fundamentosOrientacaoOBJ\bin\Debug\net5.0\fundamentosOrientacaoOBJ.dll
+D:\dev\fundamentosOrientacaoOBJ\bin\Debug\net5.0\ref\fundamentosOrientacaoOBJ.dll
+D:\dev\fundamentosOrientacaoOBJ\bin\Debug\net5.0\fundamentosOrientacaoOBJ.pdb
+D:\dev\fundamentosOrientacaoOBJ\obj\Debug\net5.0\fundamentosOrientacaoOBJ.csproj.AssemblyReference.cache
+D:\dev\fundamentosOrientacaoOBJ\obj\Debug\net5.0\fundamentosOrientacaoOBJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\fundamentosOrientacaoOBJ\obj\Debug\net5.0\fundamentosOrientacaoOBJ.AssemblyInfoInputs.cache
+D:\dev\fundamentosOrientacaoOBJ\obj\Debug\net5.0\fundamentosOrientacaoOBJ.AssemblyInfo.cs
+D:\dev\fundamentosOrientacaoOBJ\obj\Debug\net5.0\fundamentosOrientacaoOBJ.csproj.CoreCompileInputs.cache
+D:\dev\fundamentosOrientacaoOBJ\obj\Debug\net5.0\fundamentosOrientacaoOBJ.dll
+D:\dev\fundamentosOrientacaoOBJ\obj\Debug\net5.0\ref\fundamentosOrientacaoOBJ.dll
+D:\dev\fundamentosOrientacaoOBJ\obj\Debug\net5.0\fundamentosOrientacaoOBJ.pdb
+D:\dev\fundamentosOrientacaoOBJ\obj\Debug\net5.0\fundamentosOrientacaoOBJ.genruntimeconfig.cache
